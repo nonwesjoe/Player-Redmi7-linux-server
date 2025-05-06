@@ -6,6 +6,9 @@
 <pre>sudo rm /etc/apt/sources.list.d/oncl*  
 sudo rm /etc/apt/sources.list.d/batman.list  
 sudo rm /etc/apt/sources.list.d/mobian.sources  </pre>
+## showcase
+* ![redmi7](redmi7.png)
+* ![redmi7](redmi7-.png)
 ## install something
 <pre>
 sudo apt update  
