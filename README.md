@@ -7,8 +7,8 @@
 sudo rm /etc/apt/sources.list.d/batman.list  
 sudo rm /etc/apt/sources.list.d/mobian.sources  </pre>
 ## showcase
-* ![redmi7](redmi7.png)
-* ![redmi7](redmi7-.png)
+* ![redmi7](redmi7.jpg)
+* ![redmi7](redmi7-.jpg)
 ## install something
 <pre>
 sudo apt update  
